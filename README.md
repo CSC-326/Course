@@ -5,7 +5,7 @@
 |----------|----------------------------------|------------| ---------- |
 | Jan 6th  | Hello                            | &nbsp;     |  &nbsp;    | 
 | Jan 11th | Configuration Management         | &nbsp;     |  &nbsp;    |
-| Jan 13th | Jenkins + Maven                  | &nbsp;     |  HW0       |
+| Jan 13th | Jenkins + Maven                  | &nbsp;     |  [HW0](https://github.com/CSC-326/Course/blob/master/HW/HW0.md)       |
 | Jan 14th | Lab: iTrust InstallFest          | &nbsp;     |  &nbsp;    |
 | Jan 18th | No class                         | &nbsp;     |  &nbsp;    |
 | Jan 20th | Agile Processes                  |Pg. 220--238|  HW1.P1    |
