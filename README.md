@@ -1,5 +1,6 @@
 # Course
 
+[Syllabus](https://docs.google.com/document/d/1f6CLk1n6UHFu-HcXi54szjBKe59f0gRTzG0qidMyNPE/edit#)
 
 ### Schedule
 
