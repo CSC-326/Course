@@ -1,6 +1,8 @@
 # Course
 
 
+### Schedule
+
 | Class    | Topics                           |  Resources |  Deadlines |
 |----------|----------------------------------|------------| ---------- |
 | Jan 6th  | Hello                            | &nbsp;     |  &nbsp;    | 
