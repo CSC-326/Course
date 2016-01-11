@@ -7,7 +7,7 @@
 | Class    | Topics                           |  Resources |  Deadlines |
 |----------|----------------------------------|------------| ---------- |
 | Jan 6th  | Hello                            | &nbsp;     |  &nbsp;    | 
-| Jan 11th | Configuration Management         | &nbsp;     |  &nbsp;    |
+| Jan 11th | [Configuration Management](https://docs.google.com/presentation/d/1sVDyCBwFnb1C0xKTswzmhsNn-FKwCXl434uZkAunI6M/)         | &nbsp;     |  &nbsp;    |
 | Jan 13th | Jenkins + Maven                  | &nbsp;     |  [HW0](https://github.com/CSC-326/Course/blob/master/HW/HW0.md)       |
 | Jan 14th | Lab: iTrust InstallFest          | &nbsp;     |  &nbsp;    |
 | Jan 18th | No class                         | &nbsp;     |  &nbsp;    |
