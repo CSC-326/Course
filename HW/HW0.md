@@ -15,7 +15,7 @@ For extra credit, complete "Advanced Topics". 10%
 
 ### Submit
 
-For submission, you only need to demonstrate completing the levels. However, you should keep track of your solutions to help you remember how to solve these types of issues in the future, or recover if your progress gets lost.
+For submission, you only need to demonstrate completing the levels, which can be done taking a screenshot. However, you should keep track of your solutions to help you remember how to solve these types of issues in the future, or recover if your progress gets lost.
 
 Submit your assignment here, http://goo.gl/forms/obdnKkfGBu.
 Due Wednesday, 1/13, midnight.
