@@ -1,5 +1,7 @@
 ## Install Eclipse
 
+* Install Java 1.8 JDK if you don't already have it.
+
 * Get latest Mars release of Eclipse: https://eclipse.org/downloads/
   *You can using the new Eclipse Installer tool.*
   
