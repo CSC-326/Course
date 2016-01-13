@@ -11,7 +11,7 @@
 | Jan 13th | Jenkins + Maven                  | &nbsp;     |  [HW0](https://github.com/CSC-326/Course/blob/master/HW/HW0.md)       |
 | Jan 14th | Lab: iTrust InstallFest          | &nbsp;     |  &nbsp;    |
 | Jan 18th | No class                         | &nbsp;     |  &nbsp;    |
-| Jan 20th | Agile Processes                  |Pg. 220--238|  HW1.P1    |
+| Jan 20th | Agile Processes                  |Pg. 220--238|  [HW1.P1](https://github.com/CSC-326/HW1.P1)    |
 | Jan 21st | Lab: Pairs, Trello + Pivotal     | &nbsp;     |  &nbsp;    |
 | Jan 25th | Testing                          | Pg. 36--85 |  &nbsp;    |
 | Jan 27th | Mocking + Unit Testing           | &nbsp;     |  HW1.P2    |
