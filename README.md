@@ -8,7 +8,7 @@
 |----------|----------------------------------|------------| ---------- |
 | Jan 6th  | Hello                            | &nbsp;     |  &nbsp;    | 
 | Jan 11th | [Configuration Management](https://docs.google.com/presentation/d/1sVDyCBwFnb1C0xKTswzmhsNn-FKwCXl434uZkAunI6M/)         | &nbsp;     |  &nbsp;    |
-| Jan 13th | Jenkins + Maven                  | [Build Lifecycles](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)     |  [HW0](https://github.com/CSC-326/Course/blob/master/HW/HW0.md)       |
+| Jan 13th | [Jenkins + Maven](https://docs.google.com/presentation/d/1YhuMGqb2dhwZW7u-6KnmCBfVLInxkOJK6IJIpQwwrK8/)                  | [Build Lifecycles](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)     |  [HW0](https://github.com/CSC-326/Course/blob/master/HW/HW0.md)       |
 | Jan 14th | Lab: iTrust InstallFest          | &nbsp;     |  &nbsp;    |
 | Jan 18th | No class                         | &nbsp;     |  &nbsp;    |
 | Jan 20th | Agile Processes                  |Pg. 220--238|  [HW1.P1](https://github.com/CSC-326/HW1.P1)    |
