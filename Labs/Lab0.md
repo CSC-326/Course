@@ -25,4 +25,4 @@ Take the time remaining in lab to start installing iTrust on either the lab mach
 
 #### HW1.P1 (30 minutes)
 
-Spend the remaining time getting started on [HW1.P1]().
+Spend the remaining time getting started on [HW1.P1](https://github.com/CSC-326/HW1.P1).
