@@ -35,7 +35,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Jan 14th | [Lab: iTrust InstallFest](https://github.com/CSC-326/Course/blob/master/Labs/Lab0.md)          | [iTrust wiki](http://agile.csc.ncsu.edu/iTrust/wiki/doku.php), [iTrust github](https://github.ncsu.edu/engr-csc326-staff/iTrust-v21)     |  &nbsp;    |
 | Jan 18th | No class                         | &nbsp;     |  &nbsp;    |
 | Jan 20th | Agile Processes                  |Pg. 220--238|  [HW1.P1](https://github.com/CSC-326/HW1.P1)    |
-| Jan 21st | Lab: Pairs, Trello + Pivotal + Github Issues    | &nbsp;     |  &nbsp;    |
+| Jan 21st | [Lab: Trello + Pivotal + Github Issues](https://github.com/CSC-326/Course/blob/master/Labs/Lab1.md)    | &nbsp;     |  &nbsp;    |
 | Jan 25th | Testing                          | Pg. 36--85 |  &nbsp;    |
 | Jan 27th | Mocking + Unit Testing           | &nbsp;     |  HW1.P2    |
 | Jan 28th | Lab: Coverage                    | &nbsp;     |  &nbsp;    |
