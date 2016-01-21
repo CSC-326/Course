@@ -59,9 +59,7 @@ You may find using [putty](http://www.putty.org/) to manually ssh into your box 
 
 ## Concepts
 
-<!--
 ![image](https://cloud.githubusercontent.com/assets/742934/12471344/bc02d41e-bfca-11e5-9631-62e485b9851e.png)
--->
 
 **A Docker container only stays alive as long as there is an active process being run in it.**
 
