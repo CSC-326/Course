@@ -44,7 +44,7 @@ The recommended method for installing docker on ubuntu can be [found here](https
 curl -sSL https://get.docker.com/ | sh
 ```
 
-After installation, it is recommended you allow docker to be run without needing sudo. You'd need to restart your shell (exit and log back in) to see the changes reflected.
+After installation, it is recommended you allow docker to be run without needing sudo. **IMPORTANT** You'd need to restart your shell (exit and log back in) to see the changes reflected.
 
 ```
 sudo usermod -aG docker <username>
