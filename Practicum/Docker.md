@@ -221,7 +221,7 @@ Run `node server.js` when you're ready.
 #### Test
 
 * Find the ip of your host VM (`ifconfig`).
-* In your browser, visit http://<ip>:8080, and trigger a build.
+* In your browser, visit `http://<ip>:8080`, and trigger a build.
 * You will see the results eventually stream over to the webpage.
 
 
