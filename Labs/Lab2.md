@@ -18,6 +18,7 @@ private static int maxValue(int[] chars) {
 ```
 
 1. The program graph.
+   ![programgraph](imgs/max.PNG)
 
 2. There are 3 decision nodes and 6 branches.
 
