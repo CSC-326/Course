@@ -70,3 +70,8 @@ private static int[] maxminValue(int[] chars)
 2. How many branches and decisions are there in total?
 3. What the branch coverage `__ / __` ?
 
+
+### Measuring Coverage.
+
+Instal ECLEMMA.
+
