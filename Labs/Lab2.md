@@ -1,9 +1,63 @@
 ### Lab
 
-[Coverage](https://docs.google.com/presentation/d/1wCRoa7g_aDY-nmq5ORnQoSbmpuAilHOobB-SXJISdh4/edit#slide=id.p)
+Review slides on [Coverage](https://docs.google.com/presentation/d/1wCRoa7g_aDY-nmq5ORnQoSbmpuAilHOobB-SXJISdh4/edit#slide=id.p)
 
+**You may work with a partner.**
+
+Use the chance to better understand statement and branch coverage. You will certainly be tested on this material. Practice now.
+
+### Statement Coverage
+
+
+##### Exercise
+
+What is the statement coverage below
+
+```
+public void Simple(int i)
+{
+   if( i < 0 )
+      return;
+}
+```
+
+How many statements are there?
+
+Answer: It depends. Coverage is typically done at a lower level than you see in your text editor. For example, there is actually an implicit return statement. You could say there are 3 statements. Object constructors can be counted, etc. In examinations, we will not be strict in what you consider a statement.
+
+What is the statement coverage if you have a test suite of Simple(3)?
+
+What is the statement coverage if you have a test suite of Simple(3), Simple(-3)?
+
+##### Exercise
+
+Given a list tweets with retweet count [ getRetweetCount(): 33 ], [getRetweetCount() : 3 ]?
+What is the statement coverage below?
+
+```
+public Status mostRetweeted(List<Status> list)
+{
+	int max = 0;
+	Status maxStatus = list.get(0);
+	for( Status s : list )
+	{
+		if( max < s.getRetweetCount() )
+		{
+			max = s.getRetweetCount();
+			maxStatus = s;
+		}
+	}
+	return maxStatus;
+}
+```
+
+Hmm. Does for loops count? Yes. Coverage calculates the dynamic execution of the code. So every iteration of the loop should be evaluated. If just one case hits a statement, that's enough as far as coverage is concerned.
 
 ### Branch Coverage
+
+Branch coverage examines the number of branches (or decisions) taken during execution of a program.
+
+Examine this example. You will be asked to extend it below.
 
 ##### Example
 
@@ -75,15 +129,19 @@ private static int[] maxminValue(int[] chars)
 3. What the branch coverage `__ / __` ?
 
 
+The ability to answer this quesiton will seperate As from Bs on an exam.
+
 ## Measuring Coverage.
 
 You can use tools to help you measure coverage of your code and unit tests.
 
 ##### Install EclEmma.
 
+http://eclemma.org/
+
 ##### Inspecting coverage
 
-In your HW1.P2, run coverage on your tool.
+In your HW1.P2, run coverage on your code.
 
 Notice an interesting mistake in the unit test. It will actually pass if there are no links with `data-href` found, because rank will still be zero!
 
@@ -108,3 +166,7 @@ for( WebElement link : links )
 You can view reports on coverage here:
 
 ![image](https://cloud.githubusercontent.com/assets/742934/12628887/521d7fc4-c513-11e5-8336-d3251fd56e26.png)
+
+### HW1.P2
+
+Spend time on completing your HW1.P2 assignment.
