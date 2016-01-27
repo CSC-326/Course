@@ -31,7 +31,7 @@ private static int maxValue(int[] chars) {
 
 Why? 
 
-* The false branch of the `.length == 0` is never taken.
+* The true branch of the `.length == 0` is never taken.
 * The true branch of `chars[i] > max` is never taken.
 
 ##### Exercise
