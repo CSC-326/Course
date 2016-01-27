@@ -37,7 +37,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Jan 20th | [Agile Processes](https://docs.google.com/presentation/d/1lJVNr8wT4N_5MgHFTkFcJiHPM4stNlY-71F8O7kdj54/edit)                  |Pg. 220--238|  [HW1.P1](https://github.com/CSC-326/HW1.P1)    |
 | Jan 21st | [Lab: Trello + Pivotal + Github Issues](https://github.com/CSC-326/Course/blob/master/Labs/Lab1.md)    | &nbsp;     |  &nbsp;    |
 | Jan 25th | [Testing](https://docs.google.com/presentation/d/1EWfjObwBNx5ukoRWua_-qET4TtULHeqo4w9koCRlP_Y/edit#slide=id.g5ed33cf86_281)                          | Pg. 36--85 |  &nbsp;    |
-| Jan 27th | Mocking + Unit Testing           | &nbsp;     |  &nbsp;    |
+| Jan 27th | [Mocking + Unit Testing](https://docs.google.com/presentation/d/1NIDCyIMmTYuY85jPuh1FwfmD3-xFN7AsmgjUy9FitxM/edit?usp=sharing)           | &nbsp;     |  &nbsp;    |
 | Jan 28th | Lab: Coverage                    |[Coverage Slides](https://docs.google.com/presentation/d/1wCRoa7g_aDY-nmq5ORnQoSbmpuAilHOobB-SXJISdh4/edit#slide=id.p)     |  &nbsp;    |
 | Feb 1st  | Code Reviews                     | Pg. 14--18 |  &nbsp;    |
 | Feb 3rd  | Guest Lecture (Refactoring)      | &nbsp;     |  HW1.P2;    |
