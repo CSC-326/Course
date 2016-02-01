@@ -39,8 +39,8 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Jan 25th | [Testing](https://docs.google.com/presentation/d/1EWfjObwBNx5ukoRWua_-qET4TtULHeqo4w9koCRlP_Y/edit#slide=id.g5ed33cf86_281)                          | Pg. 36--85 |  &nbsp;    |
 | Jan 27th | [Mocking + Unit Testing](https://docs.google.com/presentation/d/1NIDCyIMmTYuY85jPuh1FwfmD3-xFN7AsmgjUy9FitxM/edit?usp=sharing)           | &nbsp;     |  &nbsp;    |
 | Jan 28th | [Lab: Coverage](https://github.com/CSC-326/Course/blob/master/Labs/Lab2.md)                    |[Coverage Slides](https://docs.google.com/presentation/d/1wCRoa7g_aDY-nmq5ORnQoSbmpuAilHOobB-SXJISdh4/edit#slide=id.p)     |  &nbsp;    |
-| Feb 1st  | Code Reviews                     | Pg. 14--18 |  &nbsp;    |
-| Feb 3rd  | Guest Lecture (Refactoring)      | &nbsp;     |  [HW1.P2](https://github.com/CSC-326/HW1.P2)    |
+| Feb 1st  | [Code Reviews](https://docs.google.com/presentation/d/16i-DAylCTAbzY6_F2nOVByLRs8e5AftlCd-MkgKlhJ0/edit#slide=id.gff38ba208_0_26)                     | Pg. 14--18 |  &nbsp;    |
+| Feb 3rd  | [Guest Lecture (Refactoring)](https://docs.google.com/presentation/d/1rg1SX2KH6sR7Dy6dqGtY6uktKkLQbA51PV-zM3pFmEs/edit?authkey=CNzI_OoJ)      | &nbsp;     |  [HW1.P2](https://github.com/CSC-326/HW1.P2)    |
 | Feb 4th  | Lab: Inspections                 | &nbsp;     |  &nbsp;    |
 | Feb 8th  | Architectural Patterns           | &nbsp;     |  &nbsp;    |
 | Feb 10th | Web Basics + MVVM + APIs         | &nbsp;     |  HW2.P1    |
