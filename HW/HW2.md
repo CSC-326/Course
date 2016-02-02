@@ -23,7 +23,7 @@ You must create tasks that describe how you will handle this entire homework ass
 
 * Find the longest method you can in iTrust. 2.5 points bonus to pair that finds the longest one in each lab section.
 
-* BONUS 5 points: Identify an example of another code smell in iTrust, as listed on this [inspection slide](https://docs.google.com/presentation/d/16i-DAylCTAbzY6_F2nOVByLRs8e5AftlCd-MkgKlhJ0/edit#slide=id.gff38ba208_0_46): 
+* BONUS 5 points: Identify an example of another code smell in iTrust, as listed on this [inspection slide](https://docs.google.com/presentation/d/16i-DAylCTAbzY6_F2nOVByLRs8e5AftlCd-MkgKlhJ0/edit#slide=id.gff38ba208_0_46). 
 
 ## Refactoring (50)
 
