@@ -43,10 +43,10 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Feb 3rd  | [Guest Lecture (Refactoring)](https://docs.google.com/presentation/d/1rg1SX2KH6sR7Dy6dqGtY6uktKkLQbA51PV-zM3pFmEs/edit?authkey=CNzI_OoJ)      | &nbsp;     |  [HW1.P2](https://github.com/CSC-326/HW1.P2)    |
 | Feb 4th  | Lab: Inspections                 | &nbsp;     |  &nbsp;    |
 | Feb 8th  | Architectural Patterns           | &nbsp;     |  &nbsp;    |
-| Feb 10th | Web Basics + MVVM + APIs         | &nbsp;     |  HW2.P1    |
+| Feb 10th | Web Basics + MVVM + APIs         | &nbsp;     |  [HW2.P1](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 11th | Lab: REST                        | &nbsp;     |  &nbsp;    |
 | Feb 15th | Design Notations                 |Pg. 282--302|  &nbsp;    |
-| Feb 17th | Design Patterns                  | &nbsp;     |  HW2.P2    |
+| Feb 17th | Design Patterns                  | &nbsp;     |  [HW2.P2](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 18th | Lab: Design                      | &nbsp;     |  &nbsp;    |
 | Feb 22th | Continuous Integration           |Pg. 86--119 |  &nbsp;    |
 | Feb 24th | Metrics                          | &nbsp;     |  HW3.P1    |
