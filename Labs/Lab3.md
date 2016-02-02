@@ -11,7 +11,7 @@ We will become more familiar with iTrust by testing the application today. Launc
 
 You can also review several [use cases here](https://drive.google.com/a/ncsu.edu/folderview?id=0B_REsPCRRdhOfjdMVXp4OElqeEdiUWF5TVZaVDBmOEpwVkhiS1QyUEpVWVJDVHpoeUJYd2c&usp=sharing).
 
-#### Finding and Filling Bugs (60 minutes)
+## Finding and Filling Bugs (60 minutes)
 
 Review the bugs listed on: https://github.ncsu.edu/engr-csc326-staff/iTrust-v21/issues
 Using what you know about the requirements and use cases, try to find and fill a bug on the github issue tracker.
