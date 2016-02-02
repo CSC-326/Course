@@ -23,5 +23,5 @@ Also include the unity ID of each member working on the bug report.
 
 We will fix one of these bugs for Homework 2 Part 2.
 
-**IMPORTANT:** Each pair must submit *ONE* bug to the github tracker in order to get participation credit in today's lab.
+**IMPORTANT:** Each pair must submit *ONE* bug to the github tracker in order to get participation credit in today's lab. Please only submit one bug per pair if you've happened to find more (Share with your labmates instead!)
 
