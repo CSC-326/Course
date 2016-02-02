@@ -9,9 +9,9 @@ This assignment must be completed as a pair/team. Lack of participation by a par
 
 We expect that both partners will contribute to the assignment, which means that we expect to see at least one GitHub push for each person on the team. A team member without a GitHub push will have an automatic deduction of 10 points. The exceptions to this are 1) a documented technology problem that prevents pushing to GitHub on personal AND lab machines (notification to the teaching staff must occur a least 24 hours BEFORE the deadline) and 2) documented pair programming on the assignment. Pair programming documentation should occur in the commit messages for a push.
 
-## Task Tracking
+## Task Tracking (20)
 
-#### Trello/Pivotal/Github Issues (20)
+#### Trello/Pivotal/Github Issues 
 
 * Select one of the technologies we've described in class. If using Trello or Pivotal, please add your grade TA to the board/system so they can see your plan.
 
