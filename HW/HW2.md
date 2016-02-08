@@ -5,7 +5,7 @@ See below for deadlines.
 
 ## Participation
 
-This assignment must be completed as a pair/team. Lack of participation by a partner/teammate may result in the adjustment of grades.
+This assignment must be completed as a pair/team. Lack of participation by a partner/teammate may result in the adjustment of grades. Once you've found a partner in your lab, add your names and unity IDs to [this spreadsheet] (https://docs.google.com/spreadsheets/d/18PrpYnW7OH7dwQjOkRNEtxeo0r35qU9kufk8F4-mD88/edit#gid=0).
 
 We expect that both partners will contribute to the assignment, which means that we expect to see at least one GitHub push for each person on the team. A team member without a GitHub push will have an automatic deduction of 10 points. The exceptions to this are 1) a documented technology problem that prevents pushing to GitHub on personal AND lab machines (notification to the teaching staff must occur a least 24 hours BEFORE the deadline) and 2) documented pair programming on the assignment. Pair programming documentation should occur in the commit messages for a push.
 
@@ -119,9 +119,9 @@ Please submit the following by the given deadlines:
 
 **Due:** Feb 10, 2016, midnight
 
-1. Complete your creating tasks in your task tracking and you have made some progress on tasks.
+1. Complete your created tasks in your task tracking as you have made some progress on tasks.
 2. Submit to your repo the 7 try-with-resources refactorings.
-3. Indicate in a README.md, the code smells you've found. Include code snippets and written descriptions.
+3. Indicate in a README.md the code smells you've found. Include code snippets and written descriptions.
 4. Write selenium test scripts for testing bug fixes (do not have to pass yet). 
 
 #### HW2.P2
