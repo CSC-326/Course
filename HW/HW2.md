@@ -117,7 +117,7 @@ Please submit the following by the given deadlines:
 
 #### HW2.P1
 
-**Due:** Feb 10, 2016, midnight
+**Due:** Feb 12, 2016, midnight
 
 1. Complete your creating tasks in your task tracking and you have made some progress on tasks.
 2. Submit to your repo the 7 try-with-resources refactorings.
@@ -126,7 +126,7 @@ Please submit the following by the given deadlines:
 
 #### HW2.P2
 
-**Due:** Feb 17, 2016, midnight
+**Due:** Feb 19, 2016, midnight
 
 1. All tasks should be marked complete in task tracker.
 2. Implement bug fixes.
