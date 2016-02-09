@@ -97,7 +97,7 @@ Refactor the following locations:
 * Fix: https://github.ncsu.edu/engr-csc326-staff/iTrust-v21/issues/1
 * Fix: https://github.ncsu.edu/engr-csc326-staff/iTrust-v21/issues/2
 * Fix: https://github.ncsu.edu/engr-csc326-staff/iTrust-v21/issues/3
-* Fix: TBD: BugHunt
+* Fix: Fix any bug that was a result of the BugHunt. Please indicate in your submission which bug you fixed.
 
 ## Selenium Tests for Each Bug (40)
 
