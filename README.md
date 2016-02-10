@@ -43,7 +43,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Feb 3rd  | [Guest Lecture (Refactoring)](https://docs.google.com/presentation/d/1rg1SX2KH6sR7Dy6dqGtY6uktKkLQbA51PV-zM3pFmEs/edit?authkey=CNzI_OoJ)      | [Code smells](https://www.openlearning.com/courses/COMP461394/LectureNotes/Week2.0/badSmells.pdf?action=download)     |  [HW1.P2](https://github.com/CSC-326/HW1.P2)    |
 | Feb 4th  | [Lab: Bug Hunt](https://github.com/CSC-326/Course/blob/master/Labs/Lab3.md)                 | &nbsp;     |  &nbsp;    |
 | Feb 8th  | [Architectural Patterns](https://docs.google.com/presentation/d/1WH9018RljxnVzMy17G66i5DKXJgS6pMfluC2UG9lu08/edit#slide=id.gfffb248d7_0_0)           | [MSDN](https://msdn.microsoft.com/en-us/library/ee658117.aspx)     |  &nbsp;    |
-| Feb 10th | Web Basics + MVVM (bindings+templates)         | &nbsp;     |  [HW2.P1](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
+| Feb 10th | [Web Basics + MVVM (bindings+templates)](https://docs.google.com/presentation/d/1lWXqzhgJ9oWaMnkXYMnpzQVGTOlbbBR0JkZsYx5eXk8/edit#slide=id.p)         |[JSP](https://www3.ntu.edu.sg/home/ehchua/programming/java/JSPByExample.html)     |  [HW2.P1](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 11th | Lab: Knockout, JSP, REST                        | &nbsp;     |  &nbsp;    |
 | Feb 15th | Design Notations                 |Pg. 282--302|  &nbsp;    |
 | Feb 17th | Design Patterns                  | &nbsp;     |  [HW2.P2](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
