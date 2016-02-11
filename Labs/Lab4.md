@@ -105,6 +105,8 @@ To help you debug your solution, you can right click on your project and click "
 
 **REFLECTION**: There is some magic setup that helped this connection work out. Check out WEB-INF/web.xml and META-INF/context.xml. This makes it easier to access the connection string without having to hard code it in every file.
 
+You can see all the project setup that was added to JSPDemo in order to support mysql, by checking the diff here: 
+https://github.com/CSC-326/JSPDemo/commit/d14e79a4d56bdab26dcb93b278acdfa57e074c12
 
 ##### 2. How iTrust does it?
 
