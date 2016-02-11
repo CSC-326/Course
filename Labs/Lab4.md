@@ -162,6 +162,10 @@ We'll test being able to use [github's REST api](https://developer.github.com/v3
 
 3. Replace with your unityId
 
+
+   HINT: You can debug REST api calls using curl:
+   ```curl --request PATCH -H "Authorization: token YOURTOKEN" --data '{"name":"hw4","has_issues":"true"}' https://github.ncsu.edu/api/v3/repos/cjparnin/hw4```
+
 4. Write code for listBranches in a given repo under an owner. See [list branches](https://developer.github.com/v3/repos/#list-branches)
 
 5. Finally, see if you can [create a new repo](https://developer.github.com/v3/repos/#create). Note, you'll have to use the POST verb instead of GET.
