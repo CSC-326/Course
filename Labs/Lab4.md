@@ -160,11 +160,25 @@ We'll test being able to use [github's REST api](https://developer.github.com/v3
    3. edit script.js to replace "YOUR TOKEN" with your generated token.
    4. node script.js
 
-3. Replace with your unityId
+The code makes a call to get all a users repo.
 
+```
+   var options = {
+		url: 'https://github.ncsu.edu/api/v3/users/' + userName + "/repos",
+		method: 'GET',
+		headers: {
+			"User-Agent": "EnableIssues",
+			"content-type": "application/json",
+			"Authorization": token
+		}
+	};
+```
+
+3. Replace with your unityId
 
    HINT: You can debug REST api calls using curl:
    ```curl --request PATCH -H "Authorization: token YOURTOKEN" --data '{"name":"hw4","has_issues":"true"}' https://github.ncsu.edu/api/v3/repos/cjparnin/hw4```
+
 
 4. Write code for listBranches in a given repo under an owner. See [list branches](https://developer.github.com/v3/repos/#list-branches)
 
