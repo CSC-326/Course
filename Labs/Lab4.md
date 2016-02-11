@@ -155,10 +155,10 @@ We'll test being able to use [github's REST api](https://developer.github.com/v3
 
 2. Download and build this sample code:
 
-   a. git clone https://github.com/CSC-326/GithubREST
-   b. npm install
-   c. edit script.js to replace "YOUR TOKEN" with your generated token.
-   d. node script.js
+   1. git clone https://github.com/CSC-326/GithubREST
+   2. npm install
+   3. edit script.js to replace "YOUR TOKEN" with your generated token.
+   4. node script.js
 
 3. Replace with your unityId
 
