@@ -45,8 +45,8 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Feb 8th  | [Architectural Patterns](https://docs.google.com/presentation/d/1WH9018RljxnVzMy17G66i5DKXJgS6pMfluC2UG9lu08/edit#slide=id.gfffb248d7_0_0)           | [MSDN](https://msdn.microsoft.com/en-us/library/ee658117.aspx)     |  &nbsp;    |
 | Feb 10th | [Web Basics + MVVM (bindings+templates)](https://docs.google.com/presentation/d/1lWXqzhgJ9oWaMnkXYMnpzQVGTOlbbBR0JkZsYx5eXk8/edit#slide=id.p)         |[JSP](https://www3.ntu.edu.sg/home/ehchua/programming/java/JSPByExample.html)     |  [HW2.P1](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 11th | [Lab: JSP, REST](https://github.com/CSC-326/Course/blob/master/Labs/Lab4.md)                        | [REST](https://github.com/CSC-326/Course/raw/master/Slides/RESTAPI_Frameworks.pptx)     |  &nbsp;    |
-| Feb 15th | Design Notations                 |Pg. 282--302|  &nbsp;    |
-| Feb 17th | Design Patterns                  | &nbsp;     |  [HW2.P2](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
+| Feb 15th | [Design Notations](https://docs.google.com/presentation/d/1ynB4cTQAeqEfgzbHhPJC9NoehysI6rQE_K2U0wmTg2Q/edit#slide=id.i0)                 |Pg. 282--302|  &nbsp;    |
+| Feb 17th | [Design Patterns](https://docs.google.com/presentation/d/10-45JPY4JzlWcb2Qojjmd8h7Yp8BwvtOqctrAgThpZg/edit#slide=id.i0)                  | &nbsp;     |  [HW2.P2](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 18th | Lab: Design                      | &nbsp;     |  &nbsp;    |
 | Feb 22th | Continuous Integration           |Pg. 86--119 |  &nbsp;    |
 | Feb 24th | Metrics                          | &nbsp;     |  HW3.P1    |
