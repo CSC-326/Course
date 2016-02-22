@@ -48,7 +48,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Feb 15th | [Design Notations](https://docs.google.com/presentation/d/1ynB4cTQAeqEfgzbHhPJC9NoehysI6rQE_K2U0wmTg2Q/edit#slide=id.i0)                 |Pg. 282--302|  &nbsp;    |
 | Feb 17th | [Design Patterns](https://docs.google.com/presentation/d/10-45JPY4JzlWcb2Qojjmd8h7Yp8BwvtOqctrAgThpZg/edit#slide=id.i0)                  | &nbsp;     |  [HW2.P2](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 18th | [Lab: Design](https://github.com/CSC-326/Course/blob/master/Labs/Lab5.md)                      | [Fitbit](https://dev.fitbit.com/docs/)     |  &nbsp;    |
-| Feb 22th | Continuous Integration           |Pg. 86--119 |  &nbsp;    |
+| Feb 22th | [Frameworks, APIs, REST](https://github.com/CSC-326/Course/blob/master/Slides/RESTAPI_Frameworks.pptx?raw=true)           |Pg. 86--119 |  &nbsp;    |
 | Feb 24th | Metrics                          | &nbsp;     |  [HW3.P1](https://github.com/CSC-326/Course/blob/master/HW/HW3.md)    |
 | Feb 25th | Lab: Code Complexity             | &nbsp;     |  &nbsp;    |
 | Feb 29th | Requirements + Final Project     |Pg. 120--177|  &nbsp;    |
