@@ -49,10 +49,10 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Feb 17th | [Design Patterns](https://docs.google.com/presentation/d/10-45JPY4JzlWcb2Qojjmd8h7Yp8BwvtOqctrAgThpZg/edit#slide=id.i0)                  | &nbsp;     |  [HW2.P2](https://github.com/CSC-326/Course/blob/master/HW/HW2.md#selenium-tests-for-each-bug-40)    |
 | Feb 18th | [Lab: Design](https://github.com/CSC-326/Course/blob/master/Labs/Lab5.md)                      | [Fitbit](https://dev.fitbit.com/docs/)     |  &nbsp;    |
 | Feb 22th | Continuous Integration           |Pg. 86--119 |  &nbsp;    |
-| Feb 24th | Metrics                          | &nbsp;     |  HW3.P1    |
+| Feb 24th | Metrics                          | &nbsp;     |  [HW3.P1](https://github.com/CSC-326/Course/blob/master/HW/HW3.md)    |
 | Feb 25th | Lab: Code Complexity             | &nbsp;     |  &nbsp;    |
 | Feb 29th | Requirements + Final Project     |Pg. 120--177|  &nbsp;    |
-| Mar 2nd  | Midterm                          | &nbsp;     |  HW3.P2    |
+| Mar 2nd  | Midterm                          | &nbsp;     |  [HW3.P2](https://github.com/CSC-326/Course/blob/master/HW/HW3.md)    |
 | Mar 3rd  | Lab: Requirements Planning       | &nbsp;     |  &nbsp;    |
 | Mar 7-11 | SPRING BREAK                     | &nbsp;     |  &nbsp;    |
 | Mar 14th | Continuous Deployment            | &nbsp;     |  &nbsp;    |
