@@ -30,9 +30,9 @@ Complete the REST portion of [Lab 4](https://github.com/CSC-326/Course/blob/mast
 
 You will do the following tasks:
 
-* Write code for listBranches in a given repo under an owner. See list branches
+* Write code for listBranches in a given repo under an owner. See [list branches](https://developer.github.com/v3/repos/#list-branches)
 * Write code for [create a new repo](https://developer.github.com/v3/repos/#create)
-* Write code for [creating an issue](https://developer.github.com/v3/issues/#create-an-issue) for creating a repo.
+* Write code for [creating an issue](https://developer.github.com/v3/issues/#create-an-issue) for a created repo.
 * Write code for [editing a repo](https://developer.github.com/v3/repos/#edit) to enable wiki support.
 
 #### Task Tracking (20)
