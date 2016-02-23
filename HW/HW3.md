@@ -67,6 +67,8 @@ The new feature will be worth the following:
 * [Fitbit Heart](https://github.com/BioStack/FitLink/blob/master/samples/heartrate.json)
 * [Fitbit Steps](https://github.com/BioStack/FitLink/blob/master/samples/steps.json)
 * [Fitbit Calories](https://github.com/BioStack/FitLink/blob/master/samples/calories.json)
+* [Microsoft Band Daily Summary](https://github.com/CSC-326/Course/blob/master/HW/Daily_Summary_20160216_20160222.csv)
+* [Microsoft Band Activity Summary](https://github.com/CSC-326/Course/blob/master/HW/Activity_Summary_20160216_20160222.csv)
 
 **Note:**
 
