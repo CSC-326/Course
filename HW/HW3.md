@@ -16,8 +16,8 @@ To greatly improve the usability of the tool, you will be adding a new feature t
 The following requirements will be used to guide your implementation.
 
 * The ability to import data from two different fitness wearables (Fitbit and Microsoft Band 2).
-* Add ability to enter and display heart rate data.
-* Ability for a patient to a summary of imported data. 
+* Ability to load heart rate, weight, steps, and calories and view iTrust.
+* Ability for a patient to view a summary of imported data. 
 * Ability for a HCP to to view a graphical line chart of data over time.
 
 For testing purposes, you will be provided with an exported dataset (in .json format).
