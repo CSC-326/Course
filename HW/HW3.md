@@ -61,6 +61,13 @@ The new feature will be worth the following:
 * New Unit Tests + Selenium Tests (20)
 * Report (20)
 
+##### Sample Data
+
+* [Fitbit Weight](https://github.com/BioStack/FitLink/blob/master/samples/weight.json)
+* [Fitbit Heart](https://github.com/BioStack/FitLink/blob/master/samples/heartrate.json)
+* [Fitbit Steps](https://github.com/BioStack/FitLink/blob/master/samples/steps.json)
+* [Fitbit Calories](https://github.com/BioStack/FitLink/blob/master/samples/calories.json)
+
 **Note:**
 
 * You do not have to write a selenium test case to verify the correctness of the chart. There are limitations in how htmlunitdriver can handle graphical components.
