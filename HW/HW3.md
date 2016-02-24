@@ -35,6 +35,11 @@ You will do the following tasks:
 * Write code for [creating an issue](https://developer.github.com/v3/issues/#create-an-issue) for a created repo.
 * Write code for [editing a repo](https://developer.github.com/v3/repos/#edit) to enable wiki support.
 
+
+#### Extra Credit (5)
+
+* Write code for adding your lab TA [as a collaborator.](https://developer.github.com/v3/repos/collaborators/#add-user-as-a-collaborator)
+
 #### Task Tracking (20)
 
 * Select one of the technologies we've described in class. If using Trello or Pivotal, please add your grade TA to the board/system so they can see your plan.
