@@ -34,6 +34,7 @@ You will do the following tasks:
 * Write code for [create a new repo](https://developer.github.com/v3/repos/#create)
 * Write code for [creating an issue](https://developer.github.com/v3/issues/#create-an-issue) for a created repo.
 * Write code for [editing a repo](https://developer.github.com/v3/repos/#edit) to enable wiki support.
+* Write code for [adding your Grade TA as a collaborator] (https://developer.github.com/v3/repos/collaborators/#add-user-as-a-collaborator) to a repo (the repo you'll be using to submit the Solo portion of the homework).
 
 #### Task Tracking (20)
 
