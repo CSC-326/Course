@@ -56,22 +56,22 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Mar 3rd  | Lab: Requirements Planning       | &nbsp;     |  &nbsp;    |
 | Mar 7-11 | SPRING BREAK                     | &nbsp;     |  &nbsp;    |
 | Mar 14th | Continuous Deployment            | &nbsp;     |  &nbsp;    |
-| Mar 16th | Microservices + Infrastructure   | &nbsp;     |Iteration 1 |
+| Mar 16th | Microservices + Infrastructure   | &nbsp;     |Iteration 0 |
 | Mar 17th | Lab: Docker                      | &nbsp;     |  &nbsp;    |
 | Mar 21th | Risk                             |Pg. 259--282|  &nbsp;    |
-| Mar 23rd | Guest Lecture                    | &nbsp;     |Iteration 2 |
+| Mar 23rd | Guest Lecture                    | &nbsp;     |Iteration 1 |
 | Mar 24th | Lab: Project Meeting             | &nbsp;     |  &nbsp;    |
 | Mar 28th | TBD                              | &nbsp;     |  &nbsp;    |
-| Mar 30th | TBD                              | &nbsp;     |Iteration 3|
+| Mar 30th | TBD                              | &nbsp;     |Iteration 2|
 | Mar 31st | Lab: TBD                         | &nbsp;     |  &nbsp;    |
 | Apr 4th  | Security                         | &nbsp;     |  &nbsp;    |
-| Apr 6th  | Static Analysis + Fuzzing        | &nbsp;     |Iteration 4 |
+| Apr 6th  | Static Analysis + Fuzzing        | &nbsp;     |Iteration 3 |
 | Apr 7th  | Lab: Hacking iTrust              | &nbsp;     |  &nbsp;    |
 | Apr 11th | Interviews                       | &nbsp;     |  &nbsp;    |
-| Apr 13th |Personal + Social Software Process| &nbsp;     |Iteration 5 |
+| Apr 13th |Personal + Social Software Process| &nbsp;     |Iteration 4 |
 | Apr 14th | Lab: Mock Interview + Codealike  | &nbsp;     |  &nbsp;    |
 | Apr 18th | Analysis + Monitoring            | &nbsp;     |  &nbsp;    |
-| Apr 20th | TBD                              | &nbsp;     |  &nbsp;    |
+| Apr 20th | TBD                              | &nbsp;     |Iteration 5 |
 | Apr 21st | Lab: Final Demo                  | &nbsp;     | Final Demo |
 | Apr 25th | Exam Review (Last class)         | &nbsp;     |  &nbsp;    |
 | May 4th  | Final Exam, 8am-11am             | &nbsp;     |  &nbsp;    |
