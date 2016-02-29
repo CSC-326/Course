@@ -51,7 +51,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Feb 22th | [Frameworks, APIs, REST](https://github.com/CSC-326/Course/blob/master/Slides/RESTAPI_Frameworks.pptx?raw=true)           |Pg. 86--119 |  &nbsp;    |
 | Feb 24th | [Metrics](https://docs.google.com/presentation/d/1kpgAuO0NXXaVjBSXkWq1z6c51vY5D86gBCWmfAobtt4/edit?usp=sharing)                          | &nbsp;     |  [HW3.P1](https://github.com/CSC-326/Course/blob/master/HW/HW3.md)    |
 | Feb 25th | [Lab: Code Complexity](https://github.com/CSC-326/Complexity)             | [Esprima Demo](http://esprima.org/demo/parse.html?code=function%20functionName(%20node%20)%0A%7B%0A%09if(%20node.id%20)%0A%09%7B%0A%09%09return%20node.id.name%3B%0A%09%7D%0A%09return%20%22anon%20function%20%40%22%20%2B%20node.loc.start.line%3B%0A%7D)     |  &nbsp;    |
-| Feb 29th | Requirements + Final Project     |Pg. 120--177|  &nbsp;    |
+| Feb 29th | [Requirements](https://github.com/CSC-326/Course/blob/master/Slides/18_REUseCases.pptx?raw=true) + [Final Project](https://github.com/CSC-326/Course/blob/master/Project.md)     |Pg. 120--177|  &nbsp;    |
 | Mar 2nd  | Midterm                          | &nbsp;     |  [HW3.P2](https://github.com/CSC-326/Course/blob/master/HW/HW3.md)    |
 | Mar 3rd  | Lab: Requirements Planning       | &nbsp;     |  &nbsp;    |
 | Mar 7-11 | SPRING BREAK                     | &nbsp;     |  &nbsp;    |
