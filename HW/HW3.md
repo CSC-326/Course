@@ -68,6 +68,11 @@ The new feature will be worth the following:
 
 ##### Sample Data
 
+**UPDATE**:
+I've created a single file for fitbit that creates a top level object for heart, weight, steps, calories. You can use this if it makes file import logic easier:
+[Fitbit Combined](https://raw.githubusercontent.com/BioStack/FitLink/master/samples/fitbit.json)
+
+
 * [Fitbit Weight](https://github.com/BioStack/FitLink/blob/master/samples/weight.json)
 * [Fitbit Heart](https://github.com/BioStack/FitLink/blob/master/samples/heartrate.json)
 * [Fitbit Steps](https://github.com/BioStack/FitLink/blob/master/samples/steps.json)
