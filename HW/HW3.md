@@ -113,7 +113,7 @@ Please submit the following by the given deadlines:
 
 #### HW3.P2
 
-**Due:** March 7, 2016, midnight
+**Due:** March 14, 2016, midnight
 
 1. All tasks should be marked complete in task tracker.
 2. Implement your design for new feature. Include screenshots of your new feature in README.md
