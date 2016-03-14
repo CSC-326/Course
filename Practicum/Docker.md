@@ -80,18 +80,25 @@ We'll explore some of these concepts below.
 
 Build a docker environment for running build.  Create a "Dockerfile" and place this content inside:
 
-    FROM ubuntu:14.04
-    MAINTAINER Chris Parnin, chris.parnin@ncsu.edu
-        
-    RUN apt-get -y update
-    RUN apt-get install -y wget openjdk-7-jdk curl unzip
-        
-    RUN apt-get -y install git
-    RUN apt-get -y install maven
-    RUN apt-get -y install libblas*
-    RUN ldconfig /usr/local/cuda/lib64
-        
-    ENV JAVA_HOME /usr/lib/jvm/java-7-openjdk-amd64
+	FROM ubuntu:14.04
+	MAINTAINER Chris Parnin, chris.parnin@ncsu.edu
+	
+	# add add-apt-repo cmd
+	RUN apt-get -y install software-properties-common
+	
+	# add openjdk repo
+	RUN add-apt-repository -y ppa:openjdk-r/ppa
+	
+	# update packages and install
+	RUN apt-get -y update
+	RUN apt-get install -y wget openjdk-8-jdk curl unzip
+	
+	RUN apt-get -y install git
+	RUN apt-get -y install maven
+	RUN apt-get -y install libblas*
+	RUN ldconfig /usr/local/cuda/lib64
+	
+	ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64
 
 Build the docker image
 
@@ -153,8 +160,8 @@ Now, let's commit this to our image.
 
 In your host VM, create 'build.sh' and place the following inside: 
 
-    git clone https://github.com/SkymindIO/nd4j
-    cd nd4j
+    git clone https://github.com/CSC-326/JSPDemo
+    cd JSPDemo
     mvn compile -DskipTests -Dmaven.javadoc.skip=true
 
 Execute script
@@ -165,36 +172,14 @@ Execute script
 Success!
 
 ```
-[INFO] Reactor Summary:
-[INFO]
-[INFO] nd4j .............................................. SUCCESS [9.533s]
-[INFO] nd4j-common ....................................... SUCCESS [19.260s]
-[INFO] nd4j-api .......................................... SUCCESS [22.994s]
-[INFO] nd4j-jdbc ......................................... SUCCESS [0.007s]
-[INFO] nd4j-jdbc-api ..................................... SUCCESS [2.824s]
-[INFO] nd4j-cpu .......................................... SUCCESS [38.568s]
-[INFO] nd4j-jdbc-mysql ................................... SUCCESS [2.282s]
-[INFO] nd4j-jcublas-parent ............................... SUCCESS [0.015s]
-[INFO] nd4j-jcublas-6.5 .................................. SUCCESS [10.843s]
-[INFO] nd4j-jcublas-5.5 .................................. SUCCESS [8.519s]
-[INFO] nd4j-jcublas-6.0 .................................. SUCCESS [8.958s]
-[INFO] nd4j-jcublas-7.0 .................................. SUCCESS [10.714s]
-[INFO] nd4j-jcublas-7.5 .................................. SUCCESS [6.282s]
-[INFO] nd4j-instrumentation .............................. SUCCESS [17.577s]
-[INFO] nd4j-jocl-parent .................................. SUCCESS [0.025s]
-[INFO] nd4j-jocl-1.9 ..................................... SUCCESS [2.287s]
-[INFO] nd4j-jocl-common .................................. SUCCESS [0.140s]
-[INFO] nd4j-tests ........................................ SUCCESS [1.764s]
-[INFO] nd4j-perf ......................................... SUCCESS [1.203s]
-[INFO] nd4j-serde ........................................ SUCCESS [0.004s]
-[INFO] nd4j-jackson ...................................... SUCCESS [0.222s]
-[INFO] nd4j-bytebuddy .................................... SUCCESS [4.253s]
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 5 source files to /JSPDemo/target/classes
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 2:50.183s
-[INFO] Finished at: Thu Jan 21 05:30:27 UTC 2016
-[INFO] Final Memory: 53M/194M
+[INFO] Total time: 24.570s
+[INFO] Finished at: Mon Mar 14 22:34:35 UTC 2016
+[INFO] Final Memory: 12M/30M
 [INFO] ------------------------------------------------------------------------
 ```
 
