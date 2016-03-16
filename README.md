@@ -56,7 +56,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Mar 3rd  | [Lab: Requirements Planning](https://github.com/CSC-326/Course/blob/master/Labs/Lab6.md)       | &nbsp;     |  &nbsp;    |
 | Mar 7-11 | SPRING BREAK                     | &nbsp;     |  &nbsp;    |
 | Mar 14th | [Continuous Deployment](https://docs.google.com/presentation/d/1-LyXc798R08AaPQI4yCVCCVZryP0kgQY5KqQgzAfmuc/edit#slide=id.p)            | [Adages in Continuous Deployment](https://github.com/CSC-326/Course/blob/master/Slides/Adages.pdf)     |  &nbsp;    |
-| Mar 16th | Microservices + Infrastructure   | &nbsp;     |Iteration 0 |
+| Mar 16th | [Microservices + Infrastructure](https://docs.google.com/presentation/d/1JcBtoGYqQpZ-32O3fMTT3IPeBddwk-s-pocLzD67KLk/edit?usp=sharing)   | &nbsp;     |Iteration 0 |
 | Mar 17th | [Lab: Docker](https://github.com/CSC-326/Course/blob/master/Practicum/Docker.md)                      | &nbsp;     |  &nbsp;    |
 | Mar 21th | Risk                             |Pg. 259--282|  &nbsp;    |
 | Mar 23rd | Guest Lecture                    | &nbsp;     |Iteration 1 |
