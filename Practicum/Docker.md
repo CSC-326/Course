@@ -324,7 +324,8 @@ Example of using an ambassador container:
 
 ```
 docker build -t svendowideit/ambassador .
-docker run -t -i -link redis:redis -name redis_ambassador -p 6379:6379 svendowideit/ambassador
+docker run -d --name redis crosbymichael/redis
+docker run -t -i --link redis:redis --name redis_ambassador -p 6379:6379 svendowideit/ambassador
 ```
 
 Using socat to redirect connections to port 80 to another ip:
