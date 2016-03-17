@@ -230,7 +230,7 @@ A patient may request [S1] an Physical Therapist or Orthopedic appointment with 
 The following are a set of non-functional set of requirements:
 
 * Level 1: Refactor all `Connection` and `PreparedStatement` objects in edu.ncsu.csc.itrust.dao.mysql.* to use try-with-resources instead of manually calling `close()`.
-* Level 2: Upgrade Selenium to >=2.48 and upgrade failing tests. (extra 3%)
+* Level 2: Upgrade Selenium to >=2.48 and upgrade (or @Ignore) failing tests. (extra 3%)
 * Level 3: Create a docker image for a running deployed version of iTrust: Java, MySql, Tomcat, iTrust war deployed to tomcat. (extra 4%)
 * Level 4: Create a single apt-get, homebrew, or choco package that auto installs everything needed to develop iTrust. Must be demonstrated on a clean VM. *End the install pain, once and for all*. (extra 5%)
 
