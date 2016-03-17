@@ -21,8 +21,8 @@ An HCP is a registered user of the iTrust Medical Records system (UC2). The iTru
 * [S3] An orthopedic or physical therapist HCP [E3] documents the following information related to an orthopedic office visit and saves the orthopedic office visit record. All events are logged (UC5). After the orthopedic office visit record is saved, the orthopedic or physical therapist HCP is sent to an overview of all recorded orthopedic office visits for the patient. The following information may be entered, but not all is required. [E4] 
 	* Date of the orthopedic office visit - current date. Required.
 	* Injured Limb or joint. Required.
-	* X-Ray. <Image>. Optional.
-	* MRI. <Image>. Optional.
+	* X-Ray. \<Image\>. Optional.
+	* MRI. \<Image\>. Optional.
 	* MRI Report. Optional
 	* Add a diagnosis for a patient for diseases related to musculoskeletal health. They may diagnosis a patient with one or more diseases.
 	    * Anterior cruciate ligament injury (S83.5)
