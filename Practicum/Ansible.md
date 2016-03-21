@@ -38,7 +38,7 @@ We want to create a master server that runs Ansible. First, use a binary package
 
 Now get ansible itself.
 
-    git clone git://github.com/ansible/ansible.git --recursive
+    git clone https://github.com/ansible/ansible.git --recursive
     cd ./ansible
     source ./hacking/env-setup
 
