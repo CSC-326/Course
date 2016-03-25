@@ -123,7 +123,7 @@ The administrator has authenticated himself or herself in the iTrust Medical Rec
 
 ##### 90.2 Main Flow
 
-A HPC chooses to view [S2], document [S3], edit [S4], or order [S5] a surgical ophthalmology office visit for an iTrust patient [S1].
+A HPC chooses to view [S2], document [S3], edit [S4], or order [S5] a surgical orthopedic office visit for an iTrust patient [S1].
 
 ##### 90.3 Sub Flows
 
@@ -336,6 +336,6 @@ In total, project breakdown will be as follows:
 
 * Iteration 1: March 23rd, midnight
 * Iteration 2: March 30th, midnight  
-* Iteration 3: April  5th, midnight
+* Iteration 3: April  6th, midnight
 * Iteration 4: April 13th, midnight
 * Iteration 5: April 20th, midnight
