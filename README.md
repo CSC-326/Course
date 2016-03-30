@@ -62,7 +62,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Mar 23rd | [Dr. Stolee](http://people.engr.ncsu.edu/ktstolee/)                    | &nbsp;     |Iteration 1 |
 | Mar 24th | Lab: Project Meeting             | &nbsp;     |  &nbsp;    |
 | Mar 28th | Crowd Documentation              | &nbsp;     |  &nbsp;    |
-| Mar 30th | TBD                              | &nbsp;     |Iteration 2|
+| Mar 30th | [Program Comprehension](https://onedrive.live.com/redir?resid=FF912F1DFCF67A6D!2479&authkey=!ALq3Nb19tkP0xg4&ithint=file%2cpptx)                              | [Neuroscience of Programming](http://www.huffingtonpost.com/chris-parnin/scientists-begin-looking-_b_4829981.html)     |Iteration 2|
 | Mar 31st | Lab: TBD                         | &nbsp;     |  &nbsp;    |
 | Apr 4th  | Security                         | &nbsp;     |  &nbsp;    |
 | Apr 6th  | Static Analysis + Fuzzing        | &nbsp;     |Iteration 3 |
