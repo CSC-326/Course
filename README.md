@@ -58,7 +58,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Mar 14th | [Continuous Deployment](https://docs.google.com/presentation/d/1-LyXc798R08AaPQI4yCVCCVZryP0kgQY5KqQgzAfmuc/edit#slide=id.p)            | [Adages in Continuous Deployment](https://github.com/CSC-326/Course/blob/master/Slides/Adages.pdf)     |  &nbsp;    |
 | Mar 16th | [Microservices + Infrastructure](https://docs.google.com/presentation/d/1JcBtoGYqQpZ-32O3fMTT3IPeBddwk-s-pocLzD67KLk/edit?usp=sharing)   | &nbsp;     |Iteration 0 |
 | Mar 17th | [Lab: Docker](https://github.com/CSC-326/Course/blob/master/Practicum/Docker.md)                      | &nbsp;     |  &nbsp;    |
-| Mar 21th | Ansible Workshop                             |Pg. 259--282|  &nbsp;    |
+| Mar 21th | [Ansible Workshop](https://github.com/CSC-326/Course/blob/master/Practicum/Ansible.md)                             |Pg. 259--282|  &nbsp;    |
 | Mar 23rd | [Dr. Stolee](http://people.engr.ncsu.edu/ktstolee/)                    | &nbsp;     |Iteration 1 |
 | Mar 24th | Lab: Project Meeting             | &nbsp;     |  &nbsp;    |
 | Mar 28th | Crowd Documentation              | &nbsp;     |  &nbsp;    |
