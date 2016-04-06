@@ -65,8 +65,8 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Mar 30th | [Program Comprehension](https://onedrive.live.com/redir?resid=FF912F1DFCF67A6D!2479&authkey=!ALq3Nb19tkP0xg4&ithint=file%2cpptx)                              | [Neuroscience of Programming](http://www.huffingtonpost.com/chris-parnin/scientists-begin-looking-_b_4829981.html)     |Iteration 2|
 | Mar 31st | [Lab: Comprehension](https://github.com/CSC-326/ProgramComprehensionLab)                         | &nbsp;     |  &nbsp;    |
 | Apr 4th  | [Security](https://onedrive.live.com/redir?resid=FF912F1DFCF67A6D!2481&authkey=!AJav1764UsPaaVs&ithint=file%2cpptx)   | &nbsp;     |  &nbsp;    |
-| Apr 6th  | Static Analysis + Fuzzing        | &nbsp;     |Iteration 3 |
-| Apr 7th  | Lab: Hacking iTrust              | &nbsp;     |  &nbsp;    |
+| Apr 6th  | No class        | &nbsp;     |Iteration 3 |
+| Apr 7th  | Lab: Project Meeting              | &nbsp;     |  &nbsp;    |
 | Apr 11th | Interviews                       | &nbsp;     |  &nbsp;    |
 | Apr 13th |Personal + Social Software Process| &nbsp;     |Iteration 4 |
 | Apr 14th | Lab: Mock Interview + Codealike  | &nbsp;     |  &nbsp;    |
