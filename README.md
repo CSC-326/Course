@@ -67,9 +67,9 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Apr 4th  | [Security](https://onedrive.live.com/redir?resid=FF912F1DFCF67A6D!2481&authkey=!AJav1764UsPaaVs&ithint=file%2cpptx)   | &nbsp;     |  &nbsp;    |
 | Apr 6th  | No class        | &nbsp;     |Iteration 3 |
 | Apr 7th  | Lab: Project Meeting              | &nbsp;     |  &nbsp;    |
-| Apr 11th | Interviews                       | &nbsp;     |  &nbsp;    |
-| Apr 13th |Personal + Social Software Process| &nbsp;     |Iteration 4 |
-| Apr 14th | Lab: Mock Interview + Codealike  | &nbsp;     |  &nbsp;    |
+| Apr 11th | [Personal + Social Software Process](https://docs.google.com/presentation/d/1wKl0_iUD9XEBLw5NXQSOsL1VNf65vAuzJMZNBtpSWNE/edit?usp=sharing)                       | &nbsp;     |  &nbsp;    |
+| Apr 13th | Interviews | &nbsp;     |Iteration 4 |
+| Apr 14th | Lab: Mock Interview  | &nbsp;     |  &nbsp;    |
 | Apr 18th | Analysis + Monitoring            | &nbsp;     |  &nbsp;    |
 | Apr 20th | TBD                              | &nbsp;     |Iteration 5 |
 | Apr 21st | Lab: Final Demo                  | &nbsp;     | Final Demo |
