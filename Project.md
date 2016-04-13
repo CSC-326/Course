@@ -331,6 +331,7 @@ In total, project breakdown will be as follows:
 * UC92 (15%)
 * Non-functional: Engineering (15%)
 * Demo (10%)
+* [Peer Feedback](https://docs.google.com/a/ncsu.edu/forms/d/17TzsqqtmYdlE7Ch2tValVyqMuVwvFLi1nXCYgNLZRrk/viewform)
 
 **Deadlines**
 
