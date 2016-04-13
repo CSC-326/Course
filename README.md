@@ -61,17 +61,17 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Mar 21th | [Ansible Workshop](https://github.com/CSC-326/Course/blob/master/Practicum/Ansible.md)                             |Pg. 259--282|  &nbsp;    |
 | Mar 23rd | [Dr. Stolee](http://people.engr.ncsu.edu/ktstolee/)                    | &nbsp;     |Iteration 1 |
 | Mar 24th | Lab: Project Meeting             | &nbsp;     |  &nbsp;    |
-| Mar 28th | Crowd Documentation              | &nbsp;     |  &nbsp;    |
+| Mar 28th | [Crowd Documentation](https://github.com/CSC-326/Course/blob/master/Slides/CrowdDocumentation.pdf)              | &nbsp;     |  &nbsp;    |
 | Mar 30th | [Program Comprehension](https://onedrive.live.com/redir?resid=FF912F1DFCF67A6D!2479&authkey=!ALq3Nb19tkP0xg4&ithint=file%2cpptx)                              | [Neuroscience of Programming](http://www.huffingtonpost.com/chris-parnin/scientists-begin-looking-_b_4829981.html)     |Iteration 2|
 | Mar 31st | [Lab: Comprehension](https://github.com/CSC-326/ProgramComprehensionLab)                         | &nbsp;     |  &nbsp;    |
 | Apr 4th  | [Security](https://onedrive.live.com/redir?resid=FF912F1DFCF67A6D!2481&authkey=!AJav1764UsPaaVs&ithint=file%2cpptx)   | &nbsp;     |  &nbsp;    |
 | Apr 6th  | No class        | &nbsp;     |Iteration 3 |
-| Apr 7th  | Lab: Project Meeting              | &nbsp;     |  &nbsp;    |
+| Apr 7th  | Lab: Project Working Meeting              | &nbsp;     |  &nbsp;    |
 | Apr 11th | [Personal + Social Software Process](https://docs.google.com/presentation/d/1wKl0_iUD9XEBLw5NXQSOsL1VNf65vAuzJMZNBtpSWNE/edit?usp=sharing)                       | &nbsp;     |  &nbsp;    |
-| Apr 13th | Interviews | &nbsp;     |Iteration 4 |
+| Apr 13th | [Interviews](https://github.com/CSC-326/Course/blob/master/Slides/TechInterviews_CSC326.pdf) | &nbsp;     |Iteration 4 |
 | Apr 14th | Lab: Mock Interview  | &nbsp;     |  &nbsp;    |
 | Apr 18th | Analysis + Monitoring            | &nbsp;     |  &nbsp;    |
-| Apr 20th | TBD                              | &nbsp;     |Iteration 5 |
+| Apr 20th | No class                         | &nbsp;     |Iteration 5 |
 | Apr 21st | Lab: Final Demo                  | &nbsp;     | Final Demo |
 | Apr 25th | Exam Review (Last class)         | &nbsp;     |  &nbsp;    |
 | May 4th  | Final Exam, 8am-11am             | &nbsp;     |  &nbsp;    |
