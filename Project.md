@@ -330,7 +330,7 @@ In total, project breakdown will be as follows:
 * UC91 (15%)
 * UC92 (15%)
 * Non-functional: Engineering (15%)
-* Demo (10%)
+* [Demo](https://github.com/CSC-326/Course/blob/master/Labs/Demo.md) (10%)
 * [Peer Feedback](https://docs.google.com/a/ncsu.edu/forms/d/17TzsqqtmYdlE7Ch2tValVyqMuVwvFLi1nXCYgNLZRrk/viewform)
 
 **Deadlines**
