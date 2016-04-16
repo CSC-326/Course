@@ -72,6 +72,6 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Apr 14th | Lab: Mock Interview  | &nbsp;     |  &nbsp;    |
 | Apr 18th | Analysis + Monitoring            | &nbsp;     |  &nbsp;    |
 | Apr 20th | No class                         | &nbsp;     |Iteration 5 |
-| Apr 21st | Lab: Final Demo                  | &nbsp;     | Final Demo |
+| Apr 21st | [Lab: Final Demo](https://github.com/CSC-326/Course/blob/master/Labs/Demo.md)                  | &nbsp;     | Final Demo |
 | Apr 25th | Exam Review (Last class)         | &nbsp;     |  &nbsp;    |
 | May 4th  | Final Exam, 8am-11am             | &nbsp;     |  &nbsp;    |
