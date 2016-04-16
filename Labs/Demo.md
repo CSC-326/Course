@@ -25,8 +25,8 @@ The final four will be shown in class on Monday, with the overall best project s
 
 ### Evaluation
 
-* Lab Demo (Peer Rating) - 2% project total
-* Lab Demo (TA Rating) - 3% project total
+* Lab Demo (Peer Rating) - 5% project total
+* Lab Demo (TA Rating) - 5% project total
 * Screencast quality - 5% project total
 * Best Project Award - +5% project total
 
