@@ -70,7 +70,7 @@ Instructor Office Hours: Wednesdays from 2:30pm-4:00pm
 | Apr 11th | [Personal + Social Software Process](https://docs.google.com/presentation/d/1wKl0_iUD9XEBLw5NXQSOsL1VNf65vAuzJMZNBtpSWNE/edit?usp=sharing)                       | &nbsp;     |  &nbsp;    |
 | Apr 13th | [Interviews](https://github.com/CSC-326/Course/blob/master/Slides/TechInterviews_CSC326.pdf) | &nbsp;     |Iteration 4 |
 | Apr 14th | Lab: Mock Interview  | &nbsp;     |  &nbsp;    |
-| Apr 18th | Analysis + Monitoring            | &nbsp;     |  &nbsp;    |
+| Apr 18th | [Analysis + Monitoring](https://docs.google.com/presentation/d/1qsO1KToQZkotcMSK_OpPOeKbjtQJIu6AYIIjVx_0KsU/edit#slide=id.gad44848fb_0_21)            | &nbsp;     |  &nbsp;    |
 | Apr 20th | No class                         | &nbsp;     |Iteration 5 |
 | Apr 21st | [Lab: Final Demo](https://github.com/CSC-326/Course/blob/master/Labs/Demo.md)                  | &nbsp;     | Final Demo |
 | Apr 25th | Exam Review (Last class)         | &nbsp;     |  &nbsp;    |
