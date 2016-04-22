@@ -76,24 +76,47 @@ The following is an example exam.
 ### Short Answer
 
 1. Describe the principle of "Cost of Change is Dead" 
+<br/>
+<br/>
+<br/>
 
 2. Explain the difference between docker and ansible.
+<br/>
+<br/>
+<br/>
 
 3. A manager asks to replace all try/catch code with a try-with-resources.
 What style of refactoring is this?
+<br/>
+<br/>
+<br/>
 
 4. Name 2 ways user input can cause security issues. What are some measures that help?
+<br/>
+<br/>
+<br/>
 
 5. Provide an example of a requirement. Provide an example of a non-functional requirement.
+<br/>
+<br/>
+<br/>
 
-6. Describe the princple of "Rule of 3".
+6. Describe the principle of "Rule of 3".
+<br/>
+<br/>
+<br/>
 
 ### Scenarios
 
 1. A company wants to increase the responsibility of their development team to include handling testing, staging, and production. They want to reduce communication barriers and team silos separate groups imposes. What team model might be appropriate? 
+<br/>
+<br/>
 
 2. A company has recently adopted continuous deployment of their product, but has started receiving complaints from their customer that new features are coming too fast and running too slow. What practice would you recommend they adopt to prevent these problems while allowing continuous deployment?
+<br/>
+<br/>
 
+<p style="page-break-after:always;"></p>
 ### Implementation
 
 1) Measure the branch coverage of a code snippet. (10 points)
@@ -129,6 +152,15 @@ function weird(x,y,z, mode, results)
       return 1;
   }
 ```
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 2) Write a parser using a simple visitor pattern. 
@@ -140,21 +172,112 @@ A) Count the number of branches in a function. (10 points)
 - What is number of branches in the above weird function?
 - Parser implementation.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 B) Count the number of conditions in a function. (10 points)
 
 - What is number of conditions in the above weird function?
 - Parser implementation.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ### Analyze
 
 1. Describe two advantages and two disadvantages of crowd documentation. Describe one way in which a software company may try integrating crowd documentation in development of an API?
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-2. Compare and constrast using mocking versus canary releasing. Describe their impact on testing.
+2. Compare and contrast using mocking versus canary releasing. Describe their impact on testing.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Design and Architecture
 
 1. Use class diagrams to illustrate how your team supported PT and Ortho office visits in iTrust.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 2. How might you create a microservice architecture of iTrust, running in the cloud? *Focus on creating a well annotated diagram that illustrates essential components, paragraphs of just text will not be given credit.*
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
