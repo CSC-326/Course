@@ -135,12 +135,14 @@ function weird(x,y,z, mode, results)
 *You can assume a basic visitor function already exists and provide your own tokens and AST structure you assume exist (feasibly parsed).*
 
 A) Count the number of branches in a function. (10 points)
--) What is number of branches in the above weird function?
--) Parser implementation.
+
+- What is number of branches in the above weird function?
+- Parser implementation.
 
 B) Count the number of conditions in a function. (10 points)
--) What is number of conditions in the above weird function?
--) Parser implementation.
+
+- What is number of conditions in the above weird function?
+- Parser implementation.
 
 ### Analyze
 
