@@ -197,7 +197,7 @@ B) Count the number of conditions in a function. (10 points)
 
 ### Analyze
 
-1. Describe two advantages and two disadvantages of crowd documentation. Describe one way in which a software company may try integrating crowd documentation in development of an API?
+1) Describe two advantages and two disadvantages of crowd documentation. Describe one way in which a software company may try integrating crowd documentation in development of an API?
 <br/>
 <br/>
 <br/>
@@ -211,7 +211,7 @@ B) Count the number of conditions in a function. (10 points)
 <br/>
 <br/>
 
-2. Compare and contrast using mocking versus canary releasing. Describe their impact on testing.
+2) Compare and contrast using mocking versus canary releasing. Describe their impact on testing.
 
 <br/>
 <br/>
@@ -228,7 +228,7 @@ B) Count the number of conditions in a function. (10 points)
 
 ### Design and Architecture
 
-1. Use class diagrams to illustrate how your team supported PT and Ortho office visits in iTrust.
+1) Use class diagrams to illustrate how your team supported PT and Ortho office visits in iTrust.
 
 <br/>
 <br/>
@@ -255,7 +255,7 @@ B) Count the number of conditions in a function. (10 points)
 <br/>
 <br/>
 
-2. How might you create a microservice architecture of iTrust, running in the cloud? *Focus on creating a well annotated diagram that illustrates essential components, paragraphs of just text will not be given credit.*
+2) How might you create a microservice architecture of iTrust, running in the cloud? *Focus on creating a well annotated diagram that illustrates essential components, paragraphs of just text will not be given credit.*
 
 <br/>
 <br/>
