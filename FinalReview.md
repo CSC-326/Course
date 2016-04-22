@@ -99,8 +99,9 @@ What style of refactoring is this?
 1) Measure the branch coverage of a code snippet. (10 points)
 
 **Test suite**:
-weird(0, 0, 0, "strictly", [0,0])
-weird(88, 42, 42, "stricter", [0,0])
+
+* `weird(0, 0, 0, "strictly", [0,0])`
+* `weird(88, 42, 42, "stricter", [0,0])`
 
 ```Javascript
 function weird(x,y,z, mode, results)
