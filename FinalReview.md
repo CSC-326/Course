@@ -102,7 +102,7 @@ What style of refactoring is this?
 weird(0, 0, 0, "strictly", [0,0])
 weird(88, 42, 42, "stricter", [0,0])
 
-```
+```Javascript
 function weird(x,y,z, mode, results)
 {
       if( x > 100 || y > 70 )
