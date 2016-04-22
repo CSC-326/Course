@@ -96,7 +96,7 @@ What style of refactoring is this?
 
 ### Implementation
 
-1. Measure the branch coverage of a code snippet. (10 points)
+1) Measure the branch coverage of a code snippet. (10 points)
 
 **Test suite**:
 weird(0, 0, 0, "strictly", [0,0])
@@ -130,17 +130,17 @@ function weird(x,y,z, mode, results)
 ```
 
 
-2. Write a parser using a simple visitor pattern. 
+2) Write a parser using a simple visitor pattern. 
 
 *You can assume a basic visitor function already exists and provide your own tokens and AST structure you assume exist (feasibly parsed).*
 
-1) Count the number of branches in a function. (10 points)
-a) What is number of branches in the above weird function?
-b) Parser implementation.
+A) Count the number of branches in a function. (10 points)
+-) What is number of branches in the above weird function?
+-) Parser implementation.
 
-2) Count the number of conditions in a function. (10 points)
-a) What is number of conditions in the above weird function?
-b) Parser implementation.
+B) Count the number of conditions in a function. (10 points)
+-) What is number of conditions in the above weird function?
+-) Parser implementation.
 
 ### Analyze
 
