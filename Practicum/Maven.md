@@ -22,18 +22,22 @@ Make sure to use a 64-bit version, so you can run tests with enough memory.
 2. Create a hello world maven project
 
     mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=altcode -DartifactId=mavendemo
+    
+3. Navigate to the newly created project
 
-3. Create a project file that Eclipse can understand.
+    cd mavendemo
+
+4. Create a project file that Eclipse can understand.
 
     mvn eclipse:eclipse
 
-4. Import existing maven project into eclipse.
+5. Import existing maven project into eclipse.
 
-5. Search maven central for "mysql jdbc driver".
+6. Search maven central for "mysql jdbc driver".
 
-6. Edit `pom.xml` file to add new dependancy.
+7. Edit `pom.xml` file to add new dependancy.
 
-7. Run `mvn test` to run unit tests. Notice that new dependency is downloaded.
+8. Run `mvn test` to run unit tests. Notice that new dependency is downloaded.
 
 ## Errors
 
